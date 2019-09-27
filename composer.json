@@ -6,5 +6,7 @@
             "email": "barak.oh16@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "ext-mbstring": "*"
+    }
 }
